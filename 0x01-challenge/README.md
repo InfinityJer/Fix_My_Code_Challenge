@@ -6,7 +6,7 @@
 
 Sometime you will know the language, sometime not.
 
-Please download the repository (0x01-Fix_My_Code_Challenge)[https://intranet.alxswe.com/rltoken/H1D38vm3qtejhlFTuoxUrA] nd use it as initial files for all solutions.
+Please download the repository [0x01-Fix_My_Code_Challenge](https://intranet.alxswe.com/rltoken/H1D38vm3qtejhlFTuoxUrA) nd use it as initial files for all solutions.
 
 You should not recode everything, just fix it!
 
